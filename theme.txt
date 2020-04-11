@@ -1,0 +1,40 @@
+   _   _             ____ _ _
+  | \ | | ___  ___  / ___(_) |_ _   _
+  |  \| |/ _ \/ _ \| |   | | __| | | |
+  | |\  |  __/ (_) | |___| | |_| |_| |
+  |_| \_|\___|\___/ \____|_|\__|\__, |
+                                |___/
+
+NeoCity color theme by Vince Tibor Kiss
+This file contains just the colors
+For Xresources style formatting please see "theme-Xresources"
+
+[special]
+foreground   #f4faff
+background   #0f133c
+cursorColor  #f4faff
+
+[black]
+#0f133c
+
+[red]
+#ff4a72
+
+[green]
+#72ffbe
+
+[yellow]
+#ffb2a8
+
+[blue]
+#469aff
+
+[magenta]
+#ca9aff
+
+[cyan]
+#64cbff
+
+[white]
+normal  #adc4d6
+bright  #f4faff
